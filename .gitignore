@@ -2,3 +2,4 @@ pomelo-parent/.project
 pomelo-common-mqclient/.settings
 pomelo-common-mqclient/target
 pomelo-common-mqclient/.project
+pomelo-common-mqclient/.classpath
