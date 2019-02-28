@@ -19,7 +19,7 @@
 	</properties>
 
 	<dependencies>
-		<dependency>
+		<!-- <dependency>
 			<groupId>com.ibm.mq</groupId>
 			<artifactId>headers</artifactId>
 		</dependency>
@@ -42,7 +42,7 @@
 		<dependency>
 			<groupId>com.ibm.mq</groupId>
 			<artifactId>connector</artifactId>
-		</dependency>
+		</dependency> -->
 		<dependency>
 			<groupId>ch.qos.logback</groupId>
 			<artifactId>logback-core</artifactId>
@@ -64,9 +64,6 @@
 			<artifactId>spring-context</artifactId>
 		</dependency>
 
-		<dependency>
-			<groupId>com.meidusa.toolkit</groupId>
-			<artifactId>fastjson</artifactId>
-		</dependency>
+	
 	</dependencies>
 </project>
